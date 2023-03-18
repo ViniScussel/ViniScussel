@@ -2,7 +2,7 @@
 
 Currently studying on *IFTM (UPT campus)*;
 - 📫 My email for contact: rezendestark@gmail.com;
-- ⚡ Fun fact: I know C++ (for microcontrollers), JS (frontend), python (automation) and a bit of C# (Unity);
+- ⚡ Fun fact: I know C++ (for microcontrollers), JS (frontend), python (automation), HTML/CSS and a bit of C# (Unity);
 - 🔭 I’m currently working on sereveral projects (cientific iniciacion and search project) wich all repositorys are here;
 
 <h2> open to remote professional internship </h2>
