@@ -5,7 +5,7 @@ Currently studying on *IFTM (UPT campus)*;
 - ⚡ Fun fact: I know C++ (for microcontrollers), JS (frontend), python (automation), HTML/CSS and a bit of C# (Unity);
 - 🔭 I’m currently working on sereveral projects (cientific iniciacion and search project) wich all related repositorys are, or will be, here;
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniScussel=true&theme=gruvbox)
 
 <h2> open to remote professional internship </h2>
 
