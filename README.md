@@ -1,4 +1,4 @@
-## Hii, I'm Vinícius Scussel, Eletronic Technician 📍
+## Hii, I'm Scussel, Eletronic Technician 📍
 
 Currently studying on *IFTM (UPT campus)*;
 - 📫 My email for contact: rezendestark@gmail.com;
