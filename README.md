@@ -2,7 +2,7 @@
 
 Currently studying on *IFTM (UPT campus)*;
 - 📫 My email for contact: rezendestark@gmail.com;
-- ⚡ Fun fact: I know C++ (for microcontrollers), JS (frontend), python (automation), HTML/CSS and a bit of C# (Unity);
+- ⚡ Fun fact: I know microcontrollers, JS (frontend, but learning backend), python (automation and data manipulation), HTML/CSS and a bit of C# (Unity);
 - 🔭 I’m currently working on sereveral projects (cientific iniciacion and search project) wich all related repositorys are, or will be, here;
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniScussel&show_icons=true&theme=gruvbox)
