@@ -1,4 +1,4 @@
-## Hello, I'm Scussel, Eletronic Technician 📍
+## Hello, I'm Scussel 📍
 
 Currently studying on *IFTM (UPT campus)*;
 - 📫 My email for contact: rezendestark@gmail.com;
