@@ -3,7 +3,7 @@
 Currently studying on *IFTM (UPT campus)*;
 - 📫 My email for contact: rezendestark@gmail.com;
 - ⚡ knowledgement: I know microcontrollers, JS (front, but learning back), python (automation and data manipulation) and HTML/CSS;
-- 🔭 I’m currently working on sereveral projects (like cientific iniciacion) wich all related repositorys are, or will be, here.
+- 🔭 I’m currently working on sereveral projects (like cientific iniciacion in RL/AI under microcontrollers) wich all related repositorys are, or will be, here.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniScussel&show_icons=true&theme=gruvbox)
 
