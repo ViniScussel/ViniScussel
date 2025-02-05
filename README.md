@@ -1,6 +1,6 @@
 ## Hello, I'm Scussel 📍
 
-Currently studying on *IFTM (UPT campus)*;
+Currently studying ENG AEROESPACIAL on *UFABC (SBC campus)*;
 - 📫 My email for contact: rezendestark@gmail.com;
 - ⚡ knowledgement: I know microcontrollers, JS (front, but learning back), python (automation and data manipulation) and HTML/CSS;
 - 🔭 I’m currently working on sereveral projects (like cientific iniciacion in RL/AI under microcontrollers) wich all related repositorys are, or will be, here.
