@@ -1,9 +1,9 @@
 ## Hello, I'm Scussel 📍
 
-Currently studying ENG AEROESPACIAL on *UFABC (SBC campus)*;
+Currently studying on *UFABC (SBC campus)*;
 - 📫 My email for contact: rezendestark@gmail.com;
-- ⚡ knowledgement: I know microcontrollers, JS (front, but learning back), python (automation and data manipulation) and HTML/CSS;
-- 🔭 I’m currently working on sereveral projects (like cientific iniciacion in RL/AI under microcontrollers) wich all related repositorys are, or will be, here.
+- ⚡ knowledgement: I know microcontrollers (Arduino, Esp, Raspberry), JS, python (automation and data manipulation), HTML/CSS, C++ and currently studying Rust;
+- 🔭 I’m currently working on sereveral projects (last year: cientific iniciacion in RL/AI under microcontrollers) wich all related repositorys are, or will be, here.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniScussel&show_icons=true&theme=gruvbox)
 
@@ -20,7 +20,10 @@ Currently studying ENG AEROESPACIAL on *UFABC (SBC campus)*;
 
 </div>
 
-<h2> open to remote professional internship </h2>
+<h2> 
+  open to remote professional internship
+  Have the most beautiful girlfriend
+</h2>
 
 <!--
 **ViniScussel/ViniScussel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
