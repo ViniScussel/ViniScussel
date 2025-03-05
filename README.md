@@ -22,6 +22,8 @@ Currently studying on *UFABC (SBC campus)*;
 
 <h2> 
   open to remote professional internship
+</h2> 
+<h2> 
   Have the most beautiful girlfriend
 </h2>
 
