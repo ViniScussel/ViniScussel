@@ -23,9 +23,9 @@ Currently studying on *UFABC (SBC campus)*;
 <h2> 
   open to remote professional internship
 </h2> 
-<h2> 
+<h4> 
   Have the most beautiful girlfriend
-</h2>
+</h4>
 
 <!--
 **ViniScussel/ViniScussel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
