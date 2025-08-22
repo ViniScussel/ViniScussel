@@ -22,10 +22,7 @@ Currently studying aerospace eng on *UFABC*;
 
 <h2> 
   open to remote professional internship
-</h2> 
-<h4> 
-  Have the most beautiful girlfriend
-</h4>
+</h2>
 
 <!--
 **ViniScussel/ViniScussel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
