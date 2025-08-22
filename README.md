@@ -2,7 +2,7 @@
 
 Currently studying on *UFABC*;
 - 📫 My email for contact: rezendestark@gmail.com;
-- ⚡ knowledgement: I know microcontrollers (Arduino, Esp, Raspberry), JS, python (automation and data manipulation), HTML/CSS, C++ and currently studying Rust. I do code, some thigs with perovskites and some pure math stuff;
+- ⚡ knowledgement: I know microcontrollers (Arduino, Esp, Raspberry), JS, python (automation and data manipulation), HTML/CSS, C++ and currently studying Rust. I do code, some thigs with drones and some pure math stuff;
 - 🔭 I’m currently working on sereveral projects (last year: cientific iniciacion in RL/AI under microcontrollers) wich all related repositorys are, or will be, here.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniScussel&show_icons=true&theme=gruvbox)
