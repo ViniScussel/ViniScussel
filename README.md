@@ -5,7 +5,7 @@ Currently studying aerospace eng on *UFABC*;
 - ⚡ knowledgement: I know microcontrollers (Arduino, Esp, Raspberry), JS, python (automation and data manipulation), HTML/CSS, C++ and currently studying Rust. I do code, some thigs with drones and some pure math stuff;
 - 🔭 I’m currently working on sereveral projects (last year: cientific iniciacion in RL/AI under microcontrollers) wich all related repositorys are, or will be, here.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniScussel&show_icons=true&theme=gruvbox)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniScussel&show_icons=true&theme=gruvbox)-->
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -19,10 +19,6 @@ Currently studying aerospace eng on *UFABC*;
   <img align="center" alt="Rafa-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
 </div>
-
-<h2> 
-  open to remote professional internship
-</h2>
 
 <!--
 **ViniScussel/ViniScussel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
