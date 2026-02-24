@@ -1,6 +1,6 @@
 ## Hello, I'm Scussel 📍
 
-Currently studying aerospace eng on *UFABC*;
+Currently studying energy eng on *UFABC*;
 - 📫 My email for contact: rezendestark@gmail.com;
 - ⚡ knowledgement: I know microcontrollers (Arduino, Esp, Raspberry), JS, python (automation and data manipulation), C++ and currently studying Rust. I do code, some thigs with drones and planes, and some pure math stuff;
 - 🔭 I’m currently working on sereveral projects (last year: cientific iniciacion in RL/AI under microcontrollers) wich all related repositorys are, or will be, here.
